@@ -197,7 +197,7 @@ module.exports = {
                 loader: require.resolve('babel-loader'),
                 options: {
                   // @remove-on-eject-begin
-                  babelrc: false,
+                  babelrc: true,
                   // @remove-on-eject-end
                   presets: [require.resolve('babel-preset-react-app')],
                   plugins: [
@@ -229,7 +229,7 @@ module.exports = {
               {
                 loader: require.resolve('babel-loader'),
                 options: {
-                  babelrc: false,
+                  babelrc: true,
                   compact: false,
                   presets: [
                     require.resolve('babel-preset-react-app/dependencies'),
