@@ -1,6 +1,6 @@
 {
   "name": "@faqta/react-scripts",
-  "version": "2.0.0-alpha2",
+  "version": "2.0.0-alpha3",
   "description": "Configuration and scripts for Create React App.",
   "repository": "faqta/create-react-app",
   "license": "MIT",
